@@ -17,7 +17,6 @@ class LoginViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        self.view.backgroundColor = UIColor.red
         passwordTextField.isSecureTextEntry = true
     }
     
