@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Rahul Jha",
+    "gender": "female",
+    "status": "active"
+  },
+  {
+    "id": 2,
+    "name": "Adiya Sagar",
+    "gender": "male",
+    "status": "active"
+  },
+  {
+    "id": 3,
+    "name": "John Cena",
+    "gender": "male",
+    "status": "active"
+  },
+  {
+    "id": 4,
+    "name": "Adi kumar",
+    "gender": "male",
+    "status": "active"
+  },
+  {
+    "id": 5,
+    "name": "Rahul Agarwal",
+    "gender": "male",
+    "status": "inactive"
+  },
+  {
+    "id": 6,
+    "name": "Swami Farkira",
+    "gender": "male",
+    "status": "inactive"
+  },
+  {
+    "id": 7,
+    "name": "Somayaji",
+    "gender": "female",
+    "status": "inactive"
+  },
+  {
+    "id": 8,
+    "name": "Rana Mahajan",
+    "gender": "male",
+    "status": "active"
+  },
+  {
+    "id": 9,
+    "name": "Rupa Mishra",
+    "gender": "female",
+    "status": "inactive"
+  },
+  {
+    "id": 10,
+    "name": "Vidhya Reddy",
+    "gender": "male",
+    "status": "active"
+  }
+]
