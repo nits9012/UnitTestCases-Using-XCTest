@@ -10,11 +10,9 @@ import XCTest
 
 class UsersTest: XCTestCase {
     
-    override func setUp() {
-    }
+    override func setUp() {}
     
-    override func tearDown() {
-    }
+    override func tearDown() {}
     
     func test_UsersAPI_Response() {
         let expectation = XCTestExpectation(description: "ValidRequest_Returns_UserDetails")

@@ -18,6 +18,13 @@ class LoginViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         passwordTextField.isSecureTextEntry = true
+        self.setAccessibilityIdentifier()
+    }
+    
+    func setAccessibilityIdentifier(){
+        self.emailTextField.accessibilityIdentifier = "login-email-textfield"
+        self.passwordTextField.accessibilityIdentifier = "login-password-textfield"
+        self.loginButton.accessibilityIdentifier = "login-button"
     }
     
     func isValidEmail(_ email: String) -> Bool {
