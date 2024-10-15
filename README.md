@@ -9,5 +9,5 @@ This example will help you to write test cases for UI and APIs using XCTest fram
 
 - UITest Cases Example
 
-<img src="APITestExample.png" width="600" height="400">
+<img src="APITestExample.png" width="700" height="400">
 
